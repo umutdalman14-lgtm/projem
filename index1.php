@@ -25,7 +25,7 @@
                 <h1 class="jumbotron-heading">PDO ile Database İşlemleri Uygulaması</h1>
                 <p class="lead text-muted">Uygulama yeni özellikler eklenerek genişletilecektir. Gördüğünüzün aynısı olacak şekilde kodlayınız.</p>
                 <p>
-                    <a href="ekleme.php" class="btn btn-primary my-2">Ürün Ekle</a>
+                  
                   
                 </p>
             </div>
